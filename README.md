@@ -8,7 +8,7 @@
 
 Clone the repository
 
-git clone https://github.com/USERNAME/REPOSITORY.git->git clone https://github.com/OInfinity/InformaticProject1.git
+git clone https://github.com/USERNAME/REPOSITORY.git ->git clone https://github.com/OInfinity/InformaticProject1.git
 
 
 #

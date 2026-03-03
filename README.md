@@ -10,9 +10,6 @@ Clone the repository
 
 git clone https://github.com/USERNAME/REPOSITORY.git ->git clone https://github.com/OInfinity/InformaticProject1.git
 
-
-#
-
 # Optional
 
 create a new repository on the command line
@@ -33,7 +30,7 @@ git remote add origin https://github.com/OInfinity/InformaticProject1.git
 
 git push -u origin main
 
-Push an existing repository from the command line
+## Push an existing repository from the command line
 
 git remote add origin https://github.com/OInfinity/InformaticProject1.git
 
@@ -41,7 +38,7 @@ git branch -M main
 
 git push -u origin main
 
-update existing file in the project
+## Update existing file in the project
 
 git add .
 
